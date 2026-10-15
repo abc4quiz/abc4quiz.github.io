@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ABC4QUIZ - Abc4z Official</title>
+<style>
+body{font-family:Arial;text-align:center;background:#e3f2fd;margin:0;padding:20px}
+.card{background:white;max-width:400px;margin:20px auto;padding:25px;border-radius:15px;box-shadow:0 4px 15px rgba(0,0,0,0.2)}
+h1{color:#0d47a1;margin:5px} .logo{font-size:60px}
+a{display:block;background:#0d47a1;color:white;padding:14px;margin:12px 0;border-radius:10px;text-decoration:none;font-weight:bold}
+a.tele{background:#0088cc} a.yt{background:#ff0000} a.insta{background:#E1306C}
+p{color:#555}
+</style>
+</head>
+<body>
+<div class="card">
+<div class="logo">🕊️</div>
+<h1>Abc4z</h1>
+<h2>ABC4QUIZ</h2>
+<p>Welcome to Official Quiz World<br>Daily GK, Assam Quiz, GK Questions</p>
+<a class="yt" href="https://youtube.com/@abc4quiz">▶️ YouTube - Subscribe</a>
+<a class="insta" href="https://instagram.com/abc4quiz">📸 Instagram - Follow</a>
+<a class="tele" href="https://t.me/abc4quiz">✈️ Telegram - Join</a>
+<a href="https://www.pinterest.com/abc4quiz">📌 Pinterest</a>
+<a href="mailto:abc4quiz@gmail.com">📧 abc4quiz@gmail.com</a>
+<p style="margin-top:20px;font-size:12px">© 2026 Abc4z | ABC4QUIZ</p>
+</div>
+</body>
+  </html>
